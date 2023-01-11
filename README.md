@@ -1,6 +1,6 @@
 # <center> Mesel Ghea Hilyati Nisrin </center>
 ----------
-## <center> <img src="Photo/meselcoolcat.gif" width="20"/> Hi, I'm Mesel. Great to E-meet You! </center>
+## <p align="center"><a <img src="Photo/meselcoolcat.gif" width="20"/> Hi, I'm Mesel. Great to E-meet You! ></a></p>
 ---
 <center> <img src="Photo/photo%20mesel%20ghea.jpg" width="250"/> </center>
 
