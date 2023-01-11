@@ -72,5 +72,4 @@ console.log(text);
 const text: string = "Hello World";
 console.log(text);
 ```
-# w0-my-profile-meselghea
-# w0-my-profile-meselghea
+
