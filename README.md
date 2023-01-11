@@ -44,17 +44,22 @@ This is a paragraph.
 ### HTML
 
 ```html
-<main class="content">
-  <h1>Hello World</h1>
-  <p>This is a paragraph.</p>
-</main>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
 ```
 
 ### CSS
 
 ```css
 .content {
-  color: #111;
+  color: #800080;
   font-size: 1.2rem;
 }
 ```
