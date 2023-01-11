@@ -2,7 +2,7 @@
 ----------
 ## <center> <img src="Photo/meselcoolcat.gif" width="20"/> Hi, I'm Mesel. Great to E-meet You! </center>
 ---
-<center> <img src="Photo/photo%20mesel%20ghea.jpg" width="250"/> </center>
+<center> <img src="Photo/photo%20mesel%20ghea.jpg" width="500"/> </center>
 
 ---
 - :writing_hand: I'm a student in Revou's Full Stack Software Engineering Program. 
