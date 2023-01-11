@@ -59,17 +59,9 @@ This is a paragraph.
 }
 ```
 
-### JavaScript
+### SQL
 
-```js
-const text = "Hello World";
-console.log(text);
-```
-
-### TypeScript
-
-```js
-const text: string = "Hello World";
-console.log(text);
+```sql
+SELECT * FROM helloworld WHERE phrase = "Hello, World!";
 ```
 
